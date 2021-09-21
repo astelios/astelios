@@ -1,9 +1,9 @@
 <!---
-- 👋 Hi, I’m Stelios AlevizosS
+- 👋 Hi, I’m Stelios Alevizos
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning git/github.
 - 💞️ I’m looking to collaborate on anything and everything.
-- 📫 You can reach me at: stelios.alevizos@protonmail.com
+- 📫 You can reach me at: stelios.alevizos@pm.me
 
 
 astelios/astelios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
